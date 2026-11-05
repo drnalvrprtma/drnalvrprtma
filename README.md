@@ -2,7 +2,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="kira.jpg"  />
+<img data-importer="image" align="right" height="150" src="https://cdn.phototourl.com/member/2026-11-05-c488ece1-2367-45ab-9fea-37af0884abd8.jpg"  />
 
 ###
 
